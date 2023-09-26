@@ -1,6 +1,6 @@
 # Seeds  2023
 Seeds 2023
-## Members (Ranking)
+## Members (Ranking at 26/09/2023)
 | Position | Rating | Username  | Nombres   |
 |----------|--------|-----------|-----------|
 | 1        | 1500   | cat_ta4   | Hugod     |
