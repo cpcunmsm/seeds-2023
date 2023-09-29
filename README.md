@@ -1,7 +1,7 @@
 # Seeds  2023
 Seeds 2023
 ## Members
-Ranking updated as of September 29th, 2023
+Codeforces ranking updated as of September 29th, 2023
 | Position | Rating | Username  | Nombres   |
 |----------|--------|-----------|-----------|
 | 1        | 1500   | cat_ta4   | Hugod     |
